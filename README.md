@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm youngsaltyxx! 👋
 
-<!--
-**youngsaltyxx/youngsaltyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Indonesia.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top" width="55%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- usually building small tools nobody asked for
+- learning Go the slow way
+- happier in a terminal than in an IDE
+- happy to pair on open-source stuff
+
+<img src="https://img.shields.io/badge/Docker-fb923c?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/JavaScript-fb923c?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Go-fb923c?style=for-the-badge&logoColor=white" alt="Go" />
+
+</td>
+<td valign="top" width="45%">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=youngsaltyxx&hide_border=true&theme=calm" alt="Commit streak" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=youngsaltyxx&hide_border=true&theme=react" alt="Contribution graph" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://img.shields.io/github/followers/youngsaltyxx?label=Followers&style=social" alt="Followers" /> <a href="https://github.com/youngsaltyxx"><img src="https://img.shields.io/badge/GitHub-@youngsaltyxx-fb923c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>Drop a star if any of my repos helps you.</sub>
